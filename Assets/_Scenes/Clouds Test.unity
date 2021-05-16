@@ -281,8 +281,8 @@ MonoBehaviour:
   shapeOffset: {x: 190.44, y: 0, z: 0}
   heightOffset: {x: 0, y: 0}
   shapeNoiseWeights: {x: 1, y: 0.48, z: 0.15, w: 0}
-  detailNoiseScale: 5.34
-  detailNoiseWeight: 3.42
+  detailNoiseScale: 3.35
+  detailNoiseWeight: 1.24
   detailNoiseWeights: {x: 1, y: 0.5, z: 0.5}
   detailOffset: {x: 51.25, y: 0, z: 0}
   lightAbsorptionThroughCloud: 1.02
